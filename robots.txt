@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://aqucooja.github.io/YTZ/sitemap_index.txt
+Sitemap: https://aqucooja.github.io/ZMn/sitemap_index.txt
+Sitemap: https://aqucooja.github.io/ehR/sitemap_index.txt
+Sitemap: https://aqucooja.github.io/iuY/sitemap_index.txt
